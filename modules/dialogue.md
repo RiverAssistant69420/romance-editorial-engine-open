@@ -1,0 +1,4 @@
+# Dialogue and character voice
+Dialogue is an action: speakers request, evade, bargain, comfort, tease, conceal or disclose. Identify what each wants from the conversation, what they cannot say, and what changes as a result. Distinguish speakers through priorities, vocabulary, register, syntax and habits of attention. Do not make all characters equally witty or eloquent.
+Use attribution and action beats to maintain speaker clarity and physical continuity. Subtext works when surrounding context supports interpretation; unexplained expressions are not a substitute for meaningful context. Preserve pauses, interruptions and ordinary conversation when they serve character and pacing. Start a new paragraph for a change of speaker unless the chosen style intentionally departs from that convention.
+Review: can lines be reassigned without affecting characterization? Does each important exchange have a consequence? Does the reader know who speaks and what the words refer to?
