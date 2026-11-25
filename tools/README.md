@@ -1,0 +1,2 @@
+# Optional manuscript audit
+Run locally with Python 3: `python tools/audit.py manuscript.txt`. Supply UTF-8 text, not DOCX or EPUB. It reports counts, long-paragraph candidates and repeated phrases. Thresholds are adjustable; no personal style restrictions are imposed. No network access, file uploads or automatic edits. This script does not evaluate grammar, semantic continuity, originality or literary merit.
